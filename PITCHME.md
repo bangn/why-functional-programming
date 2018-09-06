@@ -46,6 +46,7 @@ Different programming paradigms provide different kind of glue
 
 ---
 ## What is Functional Programming
+    - TBD
 
 ---
 ## Functional Programming's Glues
@@ -53,3 +54,5 @@ Different programming paradigms provide different kind of glue
         - Function as first class citizen
     - Referential Transparent
         - Same input -> Same output
+    - Lazy evaluation?
+    - Immutability?
