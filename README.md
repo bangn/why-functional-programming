@@ -1,1 +1,1 @@
-My write up while studying Haskell
+# My write up while studying Haskell
